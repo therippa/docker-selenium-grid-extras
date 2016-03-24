@@ -1,0 +1,34 @@
+{
+  "theConfigMap": {
+    "auto_update_browser_versions": "0",
+    "hub_config_files": [
+      "hub_4444.json"
+    ],
+    "auto_start_hub": "1",
+    "default_role": "hub",
+    "chromedriver": {
+      "bit": "64",
+      "version": "2.21"
+    },
+    "auto_update_drivers": "0",
+    "video_recording_options": {
+      "width": "1600",
+      "height": "900",
+      "frameSeconds": "5",
+      "idle_video_timeout": "120",
+      "frames": "20",
+      "record_test_videos": "true",
+      "videos_to_keep": "500"
+    },
+    "reboot_after_sessions": "0",
+    "auto_start_node": "1",
+    "hub_config": {},
+    "log_maximum_age_ms": 864000000,
+    "webdriver": {
+      "version": "2.52.0"
+    },
+    "node_config_files": [
+      "node_5555.json"
+    ]
+  }
+}
